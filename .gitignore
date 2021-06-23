@@ -74,3 +74,8 @@ typings/
 
 # FuseBox cache
 .fusebox/
+node_modules
+
+#Cypress Videos
+videos/
+screenshots/
