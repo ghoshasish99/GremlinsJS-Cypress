@@ -1,0 +1,15 @@
+{
+  "name": "cypress-gremlins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Ashish Ghosh",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "7.5.0",
+    "gremlins.js": "^2.2.0"
+  }
+}
